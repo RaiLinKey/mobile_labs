@@ -1,0 +1,2 @@
+include ':app', ':layouttype'
+rootProject.name='Lab lesson 1'

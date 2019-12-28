@@ -1,0 +1,2 @@
+include ':IntentApp', ':share', ':resultactivity', ':systemintentsapp', ':simplefragmentapp'
+rootProject.name='Lablesson3'
